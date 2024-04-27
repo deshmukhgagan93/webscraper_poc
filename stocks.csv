@@ -1,0 +1,5 @@
+ticker,regular_market_price,regular_market_change,regular_market_change_percent,post_market_price,post_market_change,post_market_change_percent,time_at_fetch
+TSLA,168.29,-1.89,-1.11%,168.93,+0.64,+0.38%,2024-04-27 15:14:28.708287
+AAPL,169.30,-0.59,-0.35%,169.66,+0.36,+0.21%,2024-04-27 15:14:32.930187
+GOOG,173.69,+15.74,+9.97%,172.81,-0.88,-0.51%,2024-04-27 15:14:37.118261
+NFLX,561.23,-3.57,-0.63%,558.84,-2.39,-0.43%,2024-04-27 15:14:41.592262
