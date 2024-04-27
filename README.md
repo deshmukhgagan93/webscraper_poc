@@ -16,3 +16,7 @@ This Python script allows you to scrape stock data for one or more stock and sav
 - Selenium
 - Chrome WebDriver
 - Chrome Browser
+
+## Installitions
+- If not installed seleneium web drivers, Install via following cmd
+- $ pip install selenium webdriver-manager
